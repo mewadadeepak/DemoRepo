@@ -1,0 +1,3 @@
+C:\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.AssemblyReference.cache
+C:\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.CoreCompileInputs.cache
